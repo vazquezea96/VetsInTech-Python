@@ -1,1 +1,1 @@
-# VetsInTecg-Python
+# VetsInTech-Python
